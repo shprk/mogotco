@@ -1,5 +1,5 @@
 # MOGOTCO
-<img  src="https://user-images.githubusercontent.com/83347312/207089142-e9d840c9-f774-49a1-9e94-0096fd6eea14.png" width="60%" height="100%">
+![Image](https://github.com/user-attachments/assets/df04d7d5-faea-4b01-afb1-6e746c079c58)
 
 ## 팀이름 : MOGOTCO  
 
